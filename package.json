@@ -1,0 +1,26 @@
+{
+  "name": "practice-redgreenrefactor-poonnang-s",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countvowels.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PuiSlate/practice-redGreenRefactor-Poonnang-S.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PuiSlate/practice-redGreenRefactor-Poonnang-S/issues"
+  },
+  "homepage": "https://github.com/PuiSlate/practice-redGreenRefactor-Poonnang-S#readme",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
